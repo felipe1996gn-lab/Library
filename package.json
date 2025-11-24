@@ -14,7 +14,6 @@
                 "cors": "^2.8.1",
                 "dotenv": "^8.2.0",
                 "express": "^4.14.0",
-                "mocha": "^3.2.0",
                 "mongodb": "^6.20.0",
                 "zombie": "^5.0.5"
         },
@@ -27,5 +26,8 @@
                 "hyperdev",
                 "express"
         ],
-        "license": "MIT"
+        "license": "MIT",
+        "devDependencies": {
+                "mocha": "^11.7.5"
+        }
 }
